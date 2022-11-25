@@ -1,0 +1,27 @@
+{
+    "name": "react-native-dece-server",
+    "version": "1.0.0",
+    "description": "this is designed for dece server",
+    "homepage": "https://github.com/shelleydea/react-native-dece-server",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "react-native-dece-server"
+    ],
+    "author": {
+        "name": "dece",
+        "email": "dece@example.com"
+    },
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/shelleydea/react-native-dece-server.git"
+    },
+    "peerDependencies": {
+        "react": ">=16.13.1",
+        "react-native": ">=0.63.3"
+    }
+  }
+  
