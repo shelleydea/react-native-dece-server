@@ -1,6 +1,6 @@
 {
     "name": "react-native-dece-server",
-    "version": "1.0.2",
+    "version": "1.0.4",
     "description": "this is designed for dece server",
     "homepage": "https://github.com/shelleydea/react-native-dece-server",
     "main": "index.js",
